@@ -8,10 +8,8 @@ Dataset Information
 Tools Used
 Data Cleaning Process
 Dashboard KPIs
-Dashboard Features
 Key Insights
-Recommendations
-Dashboard Preview
+Recommendation
 Conclusion
 
 ---
@@ -51,12 +49,13 @@ High employee turnover can lead to increased recruitment costs, loss of experien
 
 > File Name
 
+HR-Employee-Attrition.XLSX
 
 ## Tools Used
 
-  * Microsoft Excel
-  * SQL
-  * Microsoft Power BI
+  * Microsoft Excel* – For further cleaning, Data Collection
+  * SQL* - For data cleaning and transformation
+  * Microsoft Power BI* – For Data Visualizations & Reporting 
 
 ---
 
@@ -86,8 +85,6 @@ The Power BI dashboard includes the following key performance indicators:
 
 ---
 
-## Dashboard Features
-
 The dashboard provides interactive visualizations for:
 
 * Employee Attrition by Department
@@ -104,28 +101,6 @@ The dashboard provides interactive visualizations for:
 Interactive slicers allow users to filter the dashboard by:
 
 * Department
-
----
-
-## Key Insights
-
-* Certain departments experience significantly higher employee turnover than others.
-* Employees who work overtime are more likely to leave the organization.
-* Employees with lower job satisfaction show a higher attrition rate.
-* Younger employees represent a larger proportion of employee exits.
-* Lower monthly income appears to be associated with increased employee turnover.
-* Employees with fewer years at the company are more likely to resign.
-
----
-
-## Recommendations
-
-* Develop retention strategies for departments with high attrition.
-* Reduce excessive overtime to improve employee well-being.
-* Review compensation packages for lower-income job roles.
-* Invest in employee engagement and career development programs.
-* Conduct regular employee satisfaction surveys.
-* Implement targeted retention initiatives for new employees.
 
 ---
 
@@ -148,9 +123,28 @@ Interactive slicers allow users to filter the dashboard by:
 
 ![Glassdoor dashboard] (<img width="836" height="492" alt="Screenshot 2026-07-09 144002" src="https://github.com/user-attachments/assets/3f64f34d-1d4a-4acd-b416-87b1456225a9" />)(<img width="834" height="489" alt="Screenshot 2026-07-09 144131" src="https://github.com/user-attachments/assets/1e034d62-e7d8-47dd-9637-479ce014467f" />)(<img width="834" height="489" alt="Screenshot 2026-07-09 144213" src="https://github.com/user-attachments/assets/8c826a07-603f-46c0-8379-b7bf5748a51c" />)
 
+---
 
- 
+## Key Insights
 
+* Certain departments experience significantly higher employee turnover than others.
+* Employees who work overtime are more likely to leave the organization.
+* Employees with lower job satisfaction show a higher attrition rate.
+* Younger employees represent a larger proportion of employee exits.
+* Lower monthly income appears to be associated with increased employee turnover.
+* Employees with fewer years at the company are more likely to resign.
+
+---
+
+## Recommendations
+
+* Develop retention strategies for departments with high attrition.
+* Reduce excessive overtime to improve employee well-being.
+* Review compensation packages for lower-income job roles.
+* Invest in employee engagement and career development programs.
+* Conduct regular employee satisfaction surveys.
+* Implement targeted retention initiatives for new employees.
+  
 ---
 
 ## Conclusion
