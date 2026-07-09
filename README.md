@@ -1,4 +1,5 @@
 # Human-Resource-Employee-Attrition-Analysis
+This project explores an HR Employee Attrition dataset to uncover the factors influencing employee turnover. Using Microsoft Excel for data preparation, SQL for data querying and analysis, and Power BI for interactive data visualization, the project transforms raw HR data into meaningful business insights.
 
 ## Table of Contents
 Overview
